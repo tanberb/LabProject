@@ -1,7 +1,7 @@
 # MyProject_v2
 
 
-Prosta implementacja funcji realizującej kolejne warstwy rundy algorytmu DES:
+Prosta implementacja funkcji realizującej kolejne warstwy rundy algorytmu DES:
 
 *warstwa dodawania klucza (48b->48b)
 *warstwa podstawieniowa- S-box
