@@ -7,6 +7,6 @@ Prosta implementacja funkcji realizującej kolejne warstwy rundy algorytmu DES:
 
 *warstwa podstawieniowa- S-box
 
-*warstwa przestawieniowa- P-box(permutacjaa rundy 32b->32b)
+*warstwa przestawieniowa- P-box(permutacja rundy 32b->32b)
 
 *sprzęgnięcie warstwy dodawania klucza z wejściem warstwy podstawieniowej
